@@ -1,0 +1,22 @@
+{
+ "format": 1,
+ "packs": [
+  {
+   "id": "hq-audio",
+   "name": "HQ Audio",
+   "desc": "Every built-in song in its original studio quality (192 kbps), instead of the smaller files inside the app. Charts and timing are the same.",
+   "kind": "audio",
+   "version": 1,
+   "qualities": [
+    "hq"
+   ],
+   "sizes": {
+    "hq": 155939395
+   },
+   "count": 43,
+   "titles": [],
+   "base": "https://github.com/kasualty21/encore-packs/releases/download/hq-audio-v1/"
+  }
+ ],
+ "updated": "2026-11-24T17:38:26.513Z"
+}
