@@ -2,22 +2,6 @@
  "format": 2,
  "packs": [
   {
-   "id": "hq-audio",
-   "name": "HQ Audio",
-   "desc": "Every built-in song in its original studio quality (192 kbps), instead of the smaller files inside the app. Charts and timing are the same.",
-   "kind": "audio",
-   "version": 1,
-   "qualities": [
-    "hq"
-   ],
-   "sizes": {
-    "hq": 155939395
-   },
-   "count": 43,
-   "titles": [],
-   "base": "https://github.com/kasualty21/encore-packs/releases/download/hq-audio-v1/"
-  },
-  {
    "id": "opening",
    "name": "Opening Act",
    "desc": "The base pack: needed to play. Six songs to start with, from Starlight Encore to Neon Duet.",
@@ -208,5 +192,5 @@
    "base": "https://github.com/kasualty21/encore-packs/releases/download/velocity-files/"
   }
  ],
- "updated": "2026-11-24T18:44:30.106Z"
+ "updated": "2026-11-24T18:44:32.639Z"
 }
