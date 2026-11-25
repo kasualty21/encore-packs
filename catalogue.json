@@ -7,14 +7,14 @@
    "desc": "The base pack: needed to play. Six songs to start with, from Starlight Encore to Neon Duet.",
    "required": true,
    "order": 0,
-   "rev": "201f317fa6d4",
+   "rev": "b2255f4269d1",
    "qualities": [
     "std",
     "hq"
    ],
    "sizes": {
-    "std": 11486331,
-    "hq": 21647846
+    "std": 11508433,
+    "hq": 21662893
    },
    "count": 6,
    "titles": [
@@ -25,7 +25,7 @@
     "Every Little Light",
     "Neon Duet♪"
    ],
-   "manifest": "https://raw.githubusercontent.com/kasualty21/encore-packs/61159a0ca3e0316f5ca0b20f4bb950f7aab9bb9c/packs/opening/manifest.json",
+   "manifest": "https://raw.githubusercontent.com/kasualty21/encore-packs/4a1aaada9b60f7cca804943e03912539b8262d3e/packs/opening/manifest.json",
    "base": "https://github.com/kasualty21/encore-packs/releases/download/opening-files/"
   },
   {
@@ -34,14 +34,14 @@
    "desc": "6 songs: Chromatic Meltdown, Sugar Rush☆Live!, Tidal Geometry, Pass the Spotlight, Gravity Can Wait, Velvet Alibi.",
    "required": false,
    "order": 1,
-   "rev": "356e118e05ef",
+   "rev": "8a3caae3de80",
    "qualities": [
     "std",
     "hq"
    ],
    "sizes": {
-    "std": 11879476,
-    "hq": 22209451
+    "std": 11901796,
+    "hq": 22208197
    },
    "count": 6,
    "titles": [
@@ -52,7 +52,7 @@
     "Gravity Can Wait",
     "Velvet Alibi"
    ],
-   "manifest": "https://raw.githubusercontent.com/kasualty21/encore-packs/61159a0ca3e0316f5ca0b20f4bb950f7aab9bb9c/packs/main/manifest.json",
+   "manifest": "https://raw.githubusercontent.com/kasualty21/encore-packs/4a1aaada9b60f7cca804943e03912539b8262d3e/packs/main/manifest.json",
    "base": "https://github.com/kasualty21/encore-packs/releases/download/main-files/"
   },
   {
@@ -61,14 +61,14 @@
    "desc": "6 songs: Open Circuit, Honeycomb Café, Let It Be Beautiful, Obsidian Current, Two Colors, One Sky, Voltage Heart.",
    "required": false,
    "order": 2,
-   "rev": "1227f32df527",
+   "rev": "fb743c3bc9bc",
    "qualities": [
     "std",
     "hq"
    ],
    "sizes": {
-    "std": 11379744,
-    "hq": 21439290
+    "std": 11377578,
+    "hq": 21459352
    },
    "count": 6,
    "titles": [
@@ -79,7 +79,7 @@
     "Two Colors, One Sky",
     "Voltage Heart"
    ],
-   "manifest": "https://raw.githubusercontent.com/kasualty21/encore-packs/61159a0ca3e0316f5ca0b20f4bb950f7aab9bb9c/packs/neon/manifest.json",
+   "manifest": "https://raw.githubusercontent.com/kasualty21/encore-packs/4a1aaada9b60f7cca804943e03912539b8262d3e/packs/neon/manifest.json",
    "base": "https://github.com/kasualty21/encore-packs/releases/download/neon-files/"
   },
   {
@@ -192,5 +192,5 @@
    "base": "https://github.com/kasualty21/encore-packs/releases/download/velocity-files/"
   }
  ],
- "updated": "2026-11-25T04:16:26.359Z"
+ "updated": "2026-11-25T04:40:02.227Z"
 }
