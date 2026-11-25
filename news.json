@@ -1,7 +1,7 @@
 {
  "app": {
-  "version": "1.1.1",
-  "notes": "",
+  "version": "1.2.0",
+  "notes": "New song select, avatars, fairer taps",
   "android": "https://drive.google.com/drive/folders/1_knbw2WH-YZVjsa9TUEA_wsUUSePQs3L",
   "windows": "https://drive.google.com/drive/folders/1_knbw2WH-YZVjsa9TUEA_wsUUSePQs3L"
  },
