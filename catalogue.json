@@ -7,7 +7,7 @@
    "desc": "The base pack: needed to play. Six songs to start with, from Starlight Encore to Neon Duet.",
    "required": true,
    "order": 0,
-   "rev": "dc11090163d8",
+   "rev": "680c583c562d",
    "qualities": [
     "std",
     "hq"
@@ -25,9 +25,9 @@
     "Every Little Light",
     "Neon Duet♪"
    ],
-   "manifest": "https://raw.githubusercontent.com/kasualty21/encore-packs/83f172877fcf47316cdd9f411305993a16e3efbf/packs/opening/manifest.json",
+   "manifest": "https://raw.githubusercontent.com/kasualty21/encore-packs/ada105e0541c72e703a83f3fd7b34d5b03e5111b/packs/opening/manifest.json",
    "base": "https://github.com/kasualty21/encore-packs/releases/download/opening-files/",
-   "manifestSha256": "b71aa8c5aedb849dc9e4bcedbc6d745290194637879c46db98b1d54776ec8bd0"
+   "manifestSha256": "0ccdecf09fcbd65ba9ad0add366b3df5a4d15154211079ddc74f1914e266db6b"
   },
   {
    "id": "main",
@@ -35,7 +35,7 @@
    "desc": "6 songs: Chromatic Meltdown, Sugar Rush☆Live!, Tidal Geometry, Pass the Spotlight, Gravity Can Wait, Velvet Alibi.",
    "required": false,
    "order": 1,
-   "rev": "de7554c73fc9",
+   "rev": "07667975ae56",
    "qualities": [
     "std",
     "hq"
@@ -53,9 +53,9 @@
     "Gravity Can Wait",
     "Velvet Alibi"
    ],
-   "manifest": "https://raw.githubusercontent.com/kasualty21/encore-packs/83f172877fcf47316cdd9f411305993a16e3efbf/packs/main/manifest.json",
+   "manifest": "https://raw.githubusercontent.com/kasualty21/encore-packs/ada105e0541c72e703a83f3fd7b34d5b03e5111b/packs/main/manifest.json",
    "base": "https://github.com/kasualty21/encore-packs/releases/download/main-files/",
-   "manifestSha256": "55e2f12b8d315bc6aaa0d17968452d07e77a3dd3cfbb27c21e7f35afb45e508f"
+   "manifestSha256": "9a456cae2a63e28e2ec6b636dda71aebbe37878679950c4466f56e7cd90af216"
   },
   {
    "id": "neon",
@@ -63,7 +63,7 @@
    "desc": "6 songs: Open Circuit, Honeycomb Café, Let It Be Beautiful, Obsidian Current, Two Colors, One Sky, Voltage Heart.",
    "required": false,
    "order": 2,
-   "rev": "8d1f158ba989",
+   "rev": "c94ffcf1b558",
    "qualities": [
     "std",
     "hq"
@@ -81,9 +81,9 @@
     "Two Colors, One Sky",
     "Voltage Heart"
    ],
-   "manifest": "https://raw.githubusercontent.com/kasualty21/encore-packs/83f172877fcf47316cdd9f411305993a16e3efbf/packs/neon/manifest.json",
+   "manifest": "https://raw.githubusercontent.com/kasualty21/encore-packs/ada105e0541c72e703a83f3fd7b34d5b03e5111b/packs/neon/manifest.json",
    "base": "https://github.com/kasualty21/encore-packs/releases/download/neon-files/",
-   "manifestSha256": "d999b588c538d1cee820908c21144f853bd9644f76ffcbd6aad85f1f5a0a0b9e"
+   "manifestSha256": "144e897c1730f0c36041f6274ec38cf2f01ce2fc7d915b5fb5cec58ec00df2a2"
   },
   {
    "id": "daybreak",
@@ -91,7 +91,7 @@
    "desc": "7 songs: Prismatic Overdrive, Morning on the Sill, Midnight Signature, Pixel Mischief, Pocketful of Sunrise, Out of Frame, Break The Horizon.",
    "required": false,
    "order": 3,
-   "rev": "61433f9bcb64",
+   "rev": "5e23492c3bcf",
    "qualities": [
     "std",
     "hq"
@@ -110,9 +110,9 @@
     "Out of Frame",
     "Break The Horizon"
    ],
-   "manifest": "https://raw.githubusercontent.com/kasualty21/encore-packs/83f172877fcf47316cdd9f411305993a16e3efbf/packs/daybreak/manifest.json",
+   "manifest": "https://raw.githubusercontent.com/kasualty21/encore-packs/ada105e0541c72e703a83f3fd7b34d5b03e5111b/packs/daybreak/manifest.json",
    "base": "https://github.com/kasualty21/encore-packs/releases/download/daybreak-files/",
-   "manifestSha256": "cfd64abb790293ad5cf22944232dbd9dc6c536b269833f8f0826c2895137bcc2"
+   "manifestSha256": "b9b7a9e4cf351b2c2184fb5a117e7f11437fed301133f287211b0a5fbf1b78db"
   },
   {
    "id": "golden",
@@ -120,7 +120,7 @@
    "desc": "6 songs: Impulse Ticket, A Little Less Careful, After-School Replay, Tomorrow, Same Place, When the Lights Turn Gold, Paper Crown Parade.",
    "required": false,
    "order": 4,
-   "rev": "34a51b4d8733",
+   "rev": "2b06a2786f4e",
    "qualities": [
     "std",
     "hq"
@@ -138,9 +138,9 @@
     "When the Lights Turn Gold",
     "Paper Crown Parade"
    ],
-   "manifest": "https://raw.githubusercontent.com/kasualty21/encore-packs/83f172877fcf47316cdd9f411305993a16e3efbf/packs/golden/manifest.json",
+   "manifest": "https://raw.githubusercontent.com/kasualty21/encore-packs/ada105e0541c72e703a83f3fd7b34d5b03e5111b/packs/golden/manifest.json",
    "base": "https://github.com/kasualty21/encore-packs/releases/download/golden-files/",
-   "manifestSha256": "95619167f1223a31247ea4f3940bc97b36a95cba6e4335e4152b80c04e9fd7c0"
+   "manifestSha256": "b0185e7d626e831c31d9eb01de321c5313893d7d086af82f5a7fad3c87e8f3d6"
   },
   {
    "id": "encore",
@@ -148,7 +148,7 @@
    "desc": "6 songs: Under My Spell, Headwind Runner, Wrong Answer, Right Feeling, Summer, Unsent, Save Point, Afterimage Arcade.",
    "required": false,
    "order": 5,
-   "rev": "6be8d8e531c6",
+   "rev": "2e5e730d043f",
    "qualities": [
     "std",
     "hq"
@@ -166,9 +166,9 @@
     "Save Point",
     "Afterimage Arcade"
    ],
-   "manifest": "https://raw.githubusercontent.com/kasualty21/encore-packs/83f172877fcf47316cdd9f411305993a16e3efbf/packs/encore/manifest.json",
+   "manifest": "https://raw.githubusercontent.com/kasualty21/encore-packs/ada105e0541c72e703a83f3fd7b34d5b03e5111b/packs/encore/manifest.json",
    "base": "https://github.com/kasualty21/encore-packs/releases/download/encore-files/",
-   "manifestSha256": "c8c561c2680e6316692b2e59e8b108978bd8a5632a01ffdad2b727981faaa9b1"
+   "manifestSha256": "f371b68520a88f9872377e2adc783663fe8aaca47ae8a263cd91ff8413f39fa2"
   },
   {
    "id": "velocity",
@@ -176,7 +176,7 @@
    "desc": "6 songs: Starfall Drift, Gin No Nami, Aozora Hyperdrive, Neon Slipstream, Sakura Overdrive, Kirameki Hypersonic.",
    "required": false,
    "order": 6,
-   "rev": "6e595666565a",
+   "rev": "a66ba8f8f79d",
    "qualities": [
     "std",
     "hq"
@@ -194,14 +194,14 @@
     "Sakura Overdrive",
     "Kirameki Hypersonic"
    ],
-   "manifest": "https://raw.githubusercontent.com/kasualty21/encore-packs/83f172877fcf47316cdd9f411305993a16e3efbf/packs/velocity/manifest.json",
+   "manifest": "https://raw.githubusercontent.com/kasualty21/encore-packs/ada105e0541c72e703a83f3fd7b34d5b03e5111b/packs/velocity/manifest.json",
    "base": "https://github.com/kasualty21/encore-packs/releases/download/velocity-files/",
-   "manifestSha256": "c1398857dd55afdb63a132b99a5cff51e039c4a663d3b7392cdcca0240ad7213"
+   "manifestSha256": "ff0ba192e1b6eb57d522d9bf417a72a3542293f461663e9f1dbfc840842503c3"
   }
  ],
- "updated": "2026-11-25T07:01:28.676Z",
+ "updated": "2026-11-25T14:27:10.204Z",
  "sig": {
   "alg": "ES256",
-  "sig": "r4aRnKTwqdV65pvfwDeKFrNlxK384l0fsR6GMAzCS3ubeiJ/EeRfcISkAZYYfdUUC7EwfVpoI41uO8T9PrtT1Q=="
+  "sig": "UTXeprK7SpSmfdNIWHCrLUPwmBY9x+r2y5YNmOrkG4jNcyvtHVsqv9lEaEm9gtzoB1GYvgDx0qth5pO3Czxfug=="
  }
 }
