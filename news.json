@@ -4,5 +4,14 @@
   "notes": "",
   "android": "https://drive.google.com/drive/folders/1_knbw2WH-YZVjsa9TUEA_wsUUSePQs3L",
   "windows": "https://drive.google.com/drive/folders/1_knbw2WH-YZVjsa9TUEA_wsUUSePQs3L"
- }
+ },
+ "news": [
+  {
+   "id": "20261125-rywb",
+   "text": "Try out Afterimage Arcade!",
+   "song": "stg25",
+   "until": "2026-12-01",
+   "from": "2026-11-24"
+  }
+ ]
 }
