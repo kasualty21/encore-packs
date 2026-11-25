@@ -26,7 +26,8 @@
     "Neon Duet♪"
    ],
    "manifest": "https://raw.githubusercontent.com/kasualty21/encore-packs/83f172877fcf47316cdd9f411305993a16e3efbf/packs/opening/manifest.json",
-   "base": "https://github.com/kasualty21/encore-packs/releases/download/opening-files/"
+   "base": "https://github.com/kasualty21/encore-packs/releases/download/opening-files/",
+   "manifestSha256": "b71aa8c5aedb849dc9e4bcedbc6d745290194637879c46db98b1d54776ec8bd0"
   },
   {
    "id": "main",
@@ -53,7 +54,8 @@
     "Velvet Alibi"
    ],
    "manifest": "https://raw.githubusercontent.com/kasualty21/encore-packs/83f172877fcf47316cdd9f411305993a16e3efbf/packs/main/manifest.json",
-   "base": "https://github.com/kasualty21/encore-packs/releases/download/main-files/"
+   "base": "https://github.com/kasualty21/encore-packs/releases/download/main-files/",
+   "manifestSha256": "55e2f12b8d315bc6aaa0d17968452d07e77a3dd3cfbb27c21e7f35afb45e508f"
   },
   {
    "id": "neon",
@@ -80,7 +82,8 @@
     "Voltage Heart"
    ],
    "manifest": "https://raw.githubusercontent.com/kasualty21/encore-packs/83f172877fcf47316cdd9f411305993a16e3efbf/packs/neon/manifest.json",
-   "base": "https://github.com/kasualty21/encore-packs/releases/download/neon-files/"
+   "base": "https://github.com/kasualty21/encore-packs/releases/download/neon-files/",
+   "manifestSha256": "d999b588c538d1cee820908c21144f853bd9644f76ffcbd6aad85f1f5a0a0b9e"
   },
   {
    "id": "daybreak",
@@ -108,7 +111,8 @@
     "Break The Horizon"
    ],
    "manifest": "https://raw.githubusercontent.com/kasualty21/encore-packs/83f172877fcf47316cdd9f411305993a16e3efbf/packs/daybreak/manifest.json",
-   "base": "https://github.com/kasualty21/encore-packs/releases/download/daybreak-files/"
+   "base": "https://github.com/kasualty21/encore-packs/releases/download/daybreak-files/",
+   "manifestSha256": "cfd64abb790293ad5cf22944232dbd9dc6c536b269833f8f0826c2895137bcc2"
   },
   {
    "id": "golden",
@@ -135,7 +139,8 @@
     "Paper Crown Parade"
    ],
    "manifest": "https://raw.githubusercontent.com/kasualty21/encore-packs/83f172877fcf47316cdd9f411305993a16e3efbf/packs/golden/manifest.json",
-   "base": "https://github.com/kasualty21/encore-packs/releases/download/golden-files/"
+   "base": "https://github.com/kasualty21/encore-packs/releases/download/golden-files/",
+   "manifestSha256": "95619167f1223a31247ea4f3940bc97b36a95cba6e4335e4152b80c04e9fd7c0"
   },
   {
    "id": "encore",
@@ -162,7 +167,8 @@
     "Afterimage Arcade"
    ],
    "manifest": "https://raw.githubusercontent.com/kasualty21/encore-packs/83f172877fcf47316cdd9f411305993a16e3efbf/packs/encore/manifest.json",
-   "base": "https://github.com/kasualty21/encore-packs/releases/download/encore-files/"
+   "base": "https://github.com/kasualty21/encore-packs/releases/download/encore-files/",
+   "manifestSha256": "c8c561c2680e6316692b2e59e8b108978bd8a5632a01ffdad2b727981faaa9b1"
   },
   {
    "id": "velocity",
@@ -189,8 +195,13 @@
     "Kirameki Hypersonic"
    ],
    "manifest": "https://raw.githubusercontent.com/kasualty21/encore-packs/83f172877fcf47316cdd9f411305993a16e3efbf/packs/velocity/manifest.json",
-   "base": "https://github.com/kasualty21/encore-packs/releases/download/velocity-files/"
+   "base": "https://github.com/kasualty21/encore-packs/releases/download/velocity-files/",
+   "manifestSha256": "c1398857dd55afdb63a132b99a5cff51e039c4a663d3b7392cdcca0240ad7213"
   }
  ],
- "updated": "2026-11-25T05:54:43.335Z"
+ "updated": "2026-11-25T07:01:28.676Z",
+ "sig": {
+  "alg": "ES256",
+  "sig": "r4aRnKTwqdV65pvfwDeKFrNlxK384l0fsR6GMAzCS3ubeiJ/EeRfcISkAZYYfdUUC7EwfVpoI41uO8T9PrtT1Q=="
+ }
 }
