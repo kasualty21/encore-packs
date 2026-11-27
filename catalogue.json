@@ -255,15 +255,14 @@
     "Static Bloom",
     "Candy Satellite"
    ],
-   "manifest": "https://raw.githubusercontent.com/kasualty21/encore-packs/7acfe95cf2141b4c7a9bf56d98f9e03bcc092a4f/packs/afterglow/manifest.json",
+   "manifest": "https://raw.githubusercontent.com/kasualty21/encore-packs/0ad06acff4c8d2113e4cb35f5ee7adb42a10a420/packs/afterglow/manifest.json",
    "base": "https://github.com/kasualty21/encore-packs/releases/download/afterglow-files/",
-   "manifestSha256": "007dba5d3ba9b4ed8c74c20bafb8bc1588503312e4f2ec4411412d368644802b",
-   "test": true
+   "manifestSha256": "007dba5d3ba9b4ed8c74c20bafb8bc1588503312e4f2ec4411412d368644802b"
   }
  ],
- "updated": "2026-11-27T03:53:32.516Z",
+ "updated": "2026-11-27T04:27:14.193Z",
  "sig": {
   "alg": "ES256",
-  "sig": "ze9fCguefQh7L3xoTGIW/3IFvUvF1PBQQvYCfqOUvOCfbH3v7p7kZLCSGaC0ETWLbNLBLs1zV5gUFlgexHQUMA=="
+  "sig": "utQuhtBXeaIdhTLjXhfkgADeTWmA638NBbWXWhjb83sscrVDTDQUufeubepPhZI+DO8ZSFr5LK97DnLu+EhYXQ=="
  }
 }
