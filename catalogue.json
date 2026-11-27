@@ -229,11 +229,41 @@
    "manifest": "https://raw.githubusercontent.com/kasualty21/encore-packs/b254a80a20a8c474959f4710081f7f74b7269bba/packs/zenith/manifest.json",
    "base": "https://github.com/kasualty21/encore-packs/releases/download/zenith-files/",
    "manifestSha256": "f278a582a92738db64b8fd2655441cf80fe785931ef52db5c5c5fa360e427cd6"
+  },
+  {
+   "id": "afterglow",
+   "name": "Afterglow",
+   "desc": "7 new songs: Kurogane Pulse, Mandala Engine, Ryuusei Overclock, Tessellate, Yueguang Xinhao, Static Bloom, Candy Satellite.",
+   "required": false,
+   "order": 8,
+   "rev": "aa4c8bcc8830",
+   "qualities": [
+    "std",
+    "hq"
+   ],
+   "sizes": {
+    "std": 15137339,
+    "hq": 31158794
+   },
+   "count": 7,
+   "titles": [
+    "Kurogane Pulse",
+    "Mandala Engine",
+    "Ryuusei Overclock",
+    "Tessellate",
+    "Yueguang Xinhao",
+    "Static Bloom",
+    "Candy Satellite"
+   ],
+   "manifest": "https://raw.githubusercontent.com/kasualty21/encore-packs/7acfe95cf2141b4c7a9bf56d98f9e03bcc092a4f/packs/afterglow/manifest.json",
+   "base": "https://github.com/kasualty21/encore-packs/releases/download/afterglow-files/",
+   "manifestSha256": "007dba5d3ba9b4ed8c74c20bafb8bc1588503312e4f2ec4411412d368644802b",
+   "test": true
   }
  ],
- "updated": "2026-11-27T01:57:15.083Z",
+ "updated": "2026-11-27T03:53:22.926Z",
  "sig": {
   "alg": "ES256",
-  "sig": "OBeZMsT7msr544RfhQifAtxlXGpE8ob6rVvU854pYTZGp3ta/6AyTWpT4Go/jOKBOiX0WuxYDrHJogYXgK8JRw=="
+  "sig": "G7Co2al8tp4z6i29ELsMG6qklIxnuaerSj0/bnFGcstajnx/Vm2W8+1VKUK/57hgBW//4J+y3Uh7TTGGiW8UDA=="
  }
 }
