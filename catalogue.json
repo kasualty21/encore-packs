@@ -285,15 +285,14 @@
     "Byeolbit Relay",
     "Fiddle Ignition"
    ],
-   "manifest": "https://raw.githubusercontent.com/kasualty21/encore-packs/6025afa4e94a20023baf61b79f1a661264b0248d/packs/prism/manifest.json",
+   "manifest": "https://raw.githubusercontent.com/kasualty21/encore-packs/32a27779ff07aa34ee4acb3799bde6336b51fe91/packs/prism/manifest.json",
    "base": "https://github.com/kasualty21/encore-packs/releases/download/prism-files/",
-   "manifestSha256": "213a731348794548ee5d83f8d5a792ca601397d639a07d14e92b5ac2616ef940",
-   "test": true
+   "manifestSha256": "213a731348794548ee5d83f8d5a792ca601397d639a07d14e92b5ac2616ef940"
   }
  ],
- "updated": "2026-11-27T07:05:03.440Z",
+ "updated": "2026-11-27T07:15:47.854Z",
  "sig": {
   "alg": "ES256",
-  "sig": "Md50PTDB7XbS9tPfIBSmixrRZBgIJ5sEeKujch0VMDWoezEes3iZGRQ1UILOJOfXa4k6LDmhM+YTVvQHp5FbKQ=="
+  "sig": "u3HSxPnbgR4nvM0NM25RVRIN+PamfqextDkI3TRe0Wua8KXdWKBqWShG4Lv6ZKqp2S/m7ca/RUZBzmq34VHx/w=="
  }
 }
