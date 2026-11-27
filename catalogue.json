@@ -197,11 +197,43 @@
    "manifest": "https://raw.githubusercontent.com/kasualty21/encore-packs/ff7cadd5d0d3f0714ed15f0bd67ff174d97e7156/packs/velocity/manifest.json",
    "base": "https://github.com/kasualty21/encore-packs/releases/download/velocity-files/",
    "manifestSha256": "12add4de0f97f5124491887cafebe76427e68f38d90be5939dec2e9f2e82de89"
+  },
+  {
+   "id": "zenith",
+   "name": "Zenith",
+   "desc": "10 new songs: Hoshikuzu Carnival, Crimson Verdict, Final Phase: Zenith, Slap Circuit, Floor Protocol, Garasu no Ame, Senbon Kagura, Glass Requiem, Midnight Apex, Bulkkot Runway.",
+   "required": false,
+   "order": 7,
+   "rev": "a6ef4cc444a3",
+   "qualities": [
+    "std",
+    "hq"
+   ],
+   "sizes": {
+    "std": 22199324,
+    "hq": 42757114
+   },
+   "count": 10,
+   "titles": [
+    "Hoshikuzu Carnival",
+    "Crimson Verdict",
+    "Final Phase: Zenith",
+    "Slap Circuit",
+    "Floor Protocol",
+    "Garasu no Ame",
+    "Senbon Kagura",
+    "Glass Requiem",
+    "Midnight Apex",
+    "Bulkkot Runway"
+   ],
+   "manifest": "https://raw.githubusercontent.com/kasualty21/encore-packs/b254a80a20a8c474959f4710081f7f74b7269bba/packs/zenith/manifest.json",
+   "base": "https://github.com/kasualty21/encore-packs/releases/download/zenith-files/",
+   "manifestSha256": "f278a582a92738db64b8fd2655441cf80fe785931ef52db5c5c5fa360e427cd6"
   }
  ],
- "updated": "2026-11-25T15:46:22.281Z",
+ "updated": "2026-11-27T01:52:06.789Z",
  "sig": {
   "alg": "ES256",
-  "sig": "cc122/AmYC84E6OgCObacpE9aPpPu85fZAX+1dvunNDUKXyyoAmMLwCgZPm09mG5NXiMMcuCYq6Db33M+kEwdw=="
+  "sig": "03ekSQiGaHztTgG0qshoPzlvG+xchaT+Y4glzNGe4Zmj5KWHVyztXqwYN00iNqL7XIe5O/y22FY64KnEfT1T+Q=="
  }
 }
