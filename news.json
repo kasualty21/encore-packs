@@ -1,7 +1,7 @@
 {
  "app": {
-  "version": "1.2.3",
-  "notes": "",
+  "version": "1.2.4",
+  "notes": "Score Sync and Leaderboard tagging",
   "android": "https://drive.google.com/drive/folders/1_knbw2WH-YZVjsa9TUEA_wsUUSePQs3L",
   "windows": "https://drive.google.com/drive/folders/1_knbw2WH-YZVjsa9TUEA_wsUUSePQs3L"
  },
