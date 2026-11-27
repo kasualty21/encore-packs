@@ -204,14 +204,14 @@
    "desc": "10 new songs: Hoshikuzu Carnival, Crimson Verdict, Final Phase: Zenith, Slap Circuit, Floor Protocol, Garasu no Ame, Senbon Kagura, Glass Requiem, Midnight Apex, Bulkkot Runway.",
    "required": false,
    "order": 7,
-   "rev": "a6ef4cc444a3",
+   "rev": "e14bd1d9bfdc",
    "qualities": [
     "std",
     "hq"
    ],
    "sizes": {
-    "std": 22199324,
-    "hq": 42757114
+    "std": 22203417,
+    "hq": 46199394
    },
    "count": 10,
    "titles": [
@@ -226,9 +226,9 @@
     "Midnight Apex",
     "Bulkkot Runway"
    ],
-   "manifest": "https://raw.githubusercontent.com/kasualty21/encore-packs/b254a80a20a8c474959f4710081f7f74b7269bba/packs/zenith/manifest.json",
+   "manifest": "https://raw.githubusercontent.com/kasualty21/encore-packs/d3724ed48063fd8ead61f6430d598b43c1b37284/packs/zenith/manifest.json",
    "base": "https://github.com/kasualty21/encore-packs/releases/download/zenith-files/",
-   "manifestSha256": "f278a582a92738db64b8fd2655441cf80fe785931ef52db5c5c5fa360e427cd6"
+   "manifestSha256": "73e79a970b4031d6daf979e070d67eeb9239331f8f755887d367b03fbd98f0c8"
   },
   {
    "id": "afterglow",
@@ -261,9 +261,9 @@
    "test": true
   }
  ],
- "updated": "2026-11-27T03:53:22.926Z",
+ "updated": "2026-11-27T03:53:32.516Z",
  "sig": {
   "alg": "ES256",
-  "sig": "G7Co2al8tp4z6i29ELsMG6qklIxnuaerSj0/bnFGcstajnx/Vm2W8+1VKUK/57hgBW//4J+y3Uh7TTGGiW8UDA=="
+  "sig": "ze9fCguefQh7L3xoTGIW/3IFvUvF1PBQQvYCfqOUvOCfbH3v7p7kZLCSGaC0ETWLbNLBLs1zV5gUFlgexHQUMA=="
  }
 }
