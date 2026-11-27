@@ -258,11 +258,42 @@
    "manifest": "https://raw.githubusercontent.com/kasualty21/encore-packs/0ad06acff4c8d2113e4cb35f5ee7adb42a10a420/packs/afterglow/manifest.json",
    "base": "https://github.com/kasualty21/encore-packs/releases/download/afterglow-files/",
    "manifestSha256": "007dba5d3ba9b4ed8c74c20bafb8bc1588503312e4f2ec4411412d368644802b"
+  },
+  {
+   "id": "prism",
+   "name": "Prism",
+   "desc": "8 new songs: Glasshouse Rain, Hyakka Ryouran, Pipipi Antenna, Mirror Ball Telephone, Kintsugi Cartridge, Hanabi no Ato, Byeolbit Relay, Fiddle Ignition.",
+   "required": false,
+   "order": 9,
+   "rev": "56573034e274",
+   "qualities": [
+    "std",
+    "hq"
+   ],
+   "sizes": {
+    "std": 17769988,
+    "hq": 33103312
+   },
+   "count": 8,
+   "titles": [
+    "Glasshouse Rain",
+    "Hyakka Ryouran",
+    "Pipipi Antenna",
+    "Mirror Ball Telephone",
+    "Kintsugi Cartridge",
+    "Hanabi no Ato",
+    "Byeolbit Relay",
+    "Fiddle Ignition"
+   ],
+   "manifest": "https://raw.githubusercontent.com/kasualty21/encore-packs/6025afa4e94a20023baf61b79f1a661264b0248d/packs/prism/manifest.json",
+   "base": "https://github.com/kasualty21/encore-packs/releases/download/prism-files/",
+   "manifestSha256": "213a731348794548ee5d83f8d5a792ca601397d639a07d14e92b5ac2616ef940",
+   "test": true
   }
  ],
- "updated": "2026-11-27T06:16:03.796Z",
+ "updated": "2026-11-27T07:05:03.440Z",
  "sig": {
   "alg": "ES256",
-  "sig": "PSV0hZBLocS/LrJD4/pLITdAGjVtMpACygrjLTYCTm/hOggNgU1jzPGuwpS9LMQs3pD/YmVeCROL8tES2C4CeA=="
+  "sig": "Md50PTDB7XbS9tPfIBSmixrRZBgIJ5sEeKujch0VMDWoezEes3iZGRQ1UILOJOfXa4k6LDmhM+YTVvQHp5FbKQ=="
  }
 }
