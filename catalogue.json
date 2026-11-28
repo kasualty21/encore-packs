@@ -314,15 +314,14 @@
     "Kaijuu Keihou",
     "Zanki Zero"
    ],
-   "manifest": "https://raw.githubusercontent.com/kasualty21/encore-packs/7c61f60be0320a32ebfa0ae9c531b84652ebd3b5/packs/aurora/manifest.json",
+   "manifest": "https://raw.githubusercontent.com/kasualty21/encore-packs/31a789ec9f92ae7e2e236a18747f6ae83c51478f/packs/aurora/manifest.json",
    "base": "https://github.com/kasualty21/encore-packs/releases/download/aurora-files/",
-   "manifestSha256": "0711bb136d9175b224bf06a642a3b9eb4ff1f9890b57fda64659e5fa643a71db",
-   "test": true
+   "manifestSha256": "0711bb136d9175b224bf06a642a3b9eb4ff1f9890b57fda64659e5fa643a71db"
   }
  ],
- "updated": "2026-11-28T04:51:11.690Z",
+ "updated": "2026-11-28T05:19:09.315Z",
  "sig": {
   "alg": "ES256",
-  "sig": "iL6IjzOqu/YorPb0zqODKN+zbpGWPXsvi5aC7PL8Nl2zpvzLVuSRRqZFZUvdhfmOJqNl2EnVTbnRYYIKWVNrkg=="
+  "sig": "ca5KMqUZ9mOICpNmZ0TCC1jH7F27Zi6g/+6foIIybnElFt6zHMjt1BZuVvEgUw98ld2OSy2zIPygY0GawEw13A=="
  }
 }
